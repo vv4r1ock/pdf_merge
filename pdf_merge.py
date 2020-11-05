@@ -19,7 +19,7 @@ for i in paths:
         paths.remove(i)
         print("发现非pdf文件:{}".format(i))
 
-#print("开始合并pdf文件:{}".format(paths))
+print("开始合并pdf文件:{}".format(paths))
 #"合并后"这个名字自己改吧
 merge_pdfs(paths, output='合并后.pdf')
-#print("合并完成")
+print("合并完成")
