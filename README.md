@@ -1,9 +1,8 @@
-pdf_merge
-========
+# pdf_merge
 
 用python的PyPDF2库写的pdf合并脚本
 
-# 食用指南：
+# 食用指南
 
 ### 依赖
 
